@@ -50,8 +50,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 👀 **Note**
 
-This is a simple utility designed for basic ZIP extraction needs. Feel free to enhance or modify the code according to your requirements. Contributions are welcome!
-This program is not supported with the zip having passowrd, will upgrade in future
+This is a simple utility designed for basic ZIP extraction needs. Feel free to enhance or modify the code according to your requirements. 
+This program is not supported with the zip having passowrd, will upgrade in future.
+Contributions are welcome!
 
 🚨 **Disclaimer**
 
