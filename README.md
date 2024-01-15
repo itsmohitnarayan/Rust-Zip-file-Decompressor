@@ -57,4 +57,5 @@ Contributions are welcome!
 🚨 **Disclaimer**
 
 This project is provided as-is and does not guarantee compatibility with all ZIP file variations. Use it responsibly and make sure to test it on various ZIP files to ensure expected behavior.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
